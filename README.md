@@ -1,4 +1,4 @@
-# SnackSquad-Google Developer Profile link https://developers.google.com/profile/u/104319519234548606943/settings#account
+# SnackSquad-Google Developer Profile link https://g.dev/Akshayamg
 
 https://g.dev/Keerthanag
 https://g.dev/abirami12345
